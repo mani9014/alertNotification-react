@@ -1,0 +1,62 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+}
+.des-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.success-head {
+  color: #2dca73;
+}
+.not-heading {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600px;
+}
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 17px;
+}
+.success-icon {
+  color: #2dca73;
+  height: 20px;
+  width: 30px;
+}
+.error-icon {
+  color: #ff0b37;
+  height: 20px;
+  width: 30px;
+}
+.error-head {
+  color: #ff0b37;
+}
+.warning-icon {
+  color: #ffb800;
+  height: 20px;
+  width: 30px;
+}
+.warning-head {
+  color: #ffb800;
+}
+.info-icon {
+  color: #0f81e0;
+  height: 20px;
+  width: 30px;
+}
+.info-head {
+  color: #0f81e0;
+}

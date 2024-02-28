@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.each-noti-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-color: #475569;
+  border-width: 1px;
+  border-style: solid;
+  padding-top: 20px;
+  margin-bottom: 10px;
+  width: 500px;
+}
